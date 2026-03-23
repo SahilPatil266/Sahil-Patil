@@ -13,4 +13,9 @@ TryHackMe — Working through the SOC Level 1 and Jr Penetration Tester learning
 
 Skills & Tools
 
-DomainTools & TechnologiesSecurityPenetration testing, ethical hacking, IDS/IPS, incident responseSIEMSplunkIoTNodeMCU ESP8266, MQTT, embedded systems, device risk assessmentML / AI SecurityAdversarial ML, evasion attacks, AWS SageMakerProgrammingPython, C/C++, JavaScript, BashPlatformsKali Linux, Wireshark, Nmap, Git
+Security- Penetration testing, ethical hacking, IDS/IPS, incident response
+SIEM- Splunk
+IoT- NodeMCU ESP8266, MQTT, embedded systems, device risk assessment
+ML / AI Security- Adversarial ML, evasion attacks, AWS SageMaker
+Programming- Python, C/C++, JavaScript, Bash
+Platforms- Kali Linux, Wireshark, Nmap, Git
