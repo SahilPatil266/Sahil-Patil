@@ -8,14 +8,21 @@ My focus is on the intersection of IoT security, adversarial machine learning, a
 What I'm working on
 
 MSc Dissertation — Investigating adversarial attacks and defences in AI/ML-based security systems (evasion attacks, data poisoning, model robustness)
+
 IoT Anomaly Detection — Designing a trust-based framework to detect anomalous behaviour in heterogeneous IoT networks
+
 TryHackMe — Working through the SOC Level 1 and Jr Penetration Tester learning paths
 
 Skills & Tools
 
 Security- Penetration testing, ethical hacking, IDS/IPS, incident response
+
 SIEM- Splunk
+
 IoT- NodeMCU ESP8266, MQTT, embedded systems, device risk assessment
+
 ML / AI Security- Adversarial ML, evasion attacks, AWS SageMaker
+
 Programming- Python, C/C++, JavaScript, Bash
+
 Platforms- Kali Linux, Wireshark, Nmap, Git
